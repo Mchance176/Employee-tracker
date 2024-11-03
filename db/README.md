@@ -55,7 +55,7 @@ GIVEN a command-line application that accepts user input
   - manager_id: INT
 
 ## Video Walkthrough
-[Link to video demonstration]()
+[https://app.screencastify.com/v2/manage/videos/9Eq1yZqphktS7iUbkJVL](https://drive.google.com/file/d/1g7cg6XbY2GNpfQJqeWj6o4kysPTM7IPV/view)
 
 ## Technologies Used
 - Node.js
